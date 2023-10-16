@@ -1,4 +1,4 @@
-current_year = int(input())
+current_year = int(input())+1
 
 command = True
 
