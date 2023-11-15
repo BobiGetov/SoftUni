@@ -26,6 +26,3 @@ for index in indexes:
     email_objects[index].send()
 for current_email in email_objects:
     print(current_email.get_info())
-
-
-#test_1
